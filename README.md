@@ -283,3 +283,6 @@ This repository serves as the official landing page for **Sifu**. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sifu today!**
+
+---
+**Last updated:** 2026-09-08 15:32:53 UTC
